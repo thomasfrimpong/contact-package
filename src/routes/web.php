@@ -1,6 +1,6 @@
 <?php
 
-use Bitfumes\Contact\Http\Controllers\ContactController;
+use Thomas\Contact\Http\Controllers\ContactController;
 use Illuminate\Support\Facades\Route;
 
 

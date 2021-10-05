@@ -1,5 +1,5 @@
 {
-    "name": "bitfumes/contact",
+    "name": "thomas/contact",
     "description": "This will send an email to the admin and save a contact in the database",
     "type": "library",
     "license": "MIT",
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Bitfumes\\Contact\\": "src/"
+            "Thomas\\Contact\\": "src/"
         }
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Bitfumes\Contact;
+namespace Thomas\Contact;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;
