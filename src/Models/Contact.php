@@ -1,6 +1,6 @@
 <?php
 
-namespace Thomas\Contact\Models;
+namespace Thomas2021\Contact\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

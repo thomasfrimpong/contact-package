@@ -1,11 +1,11 @@
 {
-    "name": "thomas/contact",
+    "name": "thomas2021/contact",
     "description": "This will send an email to the admin and save a contact in the database",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Thomas Frimpong",
+            "name": "Thomas2021 Frimpong",
             "email": "tfrimpong1987@gmail.com"
         }
     ],
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Thomas\\Contact\\": "src/"
+            "Thomas2021\\Contact\\": "src/"
         }
     }
 }

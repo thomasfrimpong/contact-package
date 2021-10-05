@@ -1,6 +1,6 @@
 <?php
 
-use Thomas\Contact\Http\Controllers\ContactController;
+use Thomas2021\Contact\Http\Controllers\ContactController;
 use Illuminate\Support\Facades\Route;
 
 

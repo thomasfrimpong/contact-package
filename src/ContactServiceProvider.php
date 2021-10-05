@@ -1,6 +1,6 @@
 <?php
 
-namespace Thomas\Contact;
+namespace Thomas2021\Contact;
 
 use Illuminate\Support\ServiceProvider;
 

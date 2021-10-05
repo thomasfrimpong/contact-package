@@ -1,10 +1,10 @@
 <?php
 
-namespace Thomas\Contact\Http\Controllers;
+namespace Thomas2021\Contact\Http\Controllers;
 
 use App\Http\Controllers\Controller;
-use Thomas\Contact\ContactMailable;
-use Thomas\Contact\Models\Contact;
+use Thomas2021\Contact\ContactMailable;
+use Thomas2021\Contact\Models\Contact;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 
